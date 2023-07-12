@@ -1,0 +1,57 @@
+.btn-gen {
+    padding: 7px 20px;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    transition: 0.3s;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #1E3A8A;
+}
+
+.btn-gen:hover {
+    color: #fff;
+    background-color: #B91C1C;
+}
+
+.btn-gen-secondary {
+    padding: 7px 20px;
+    border: none;
+    border-radius: 3px;
+    color: rgb(72, 72, 72);
+    transition: 0.3s;
+    font-size: 18px;
+    font-weight: 300;
+    border: solid 1px rgb(72, 72, 72);
+    background-color: #ffffff;
+}
+
+#main {
+    margin-top: 120px;
+}
+
+.lead {
+    font-size: 19px;
+}
+
+.head-lead {
+    text-align: left;
+}
+
+
+.collabdescription {
+    font-size: small;
+    text-align: left;
+}
+
+.a-gen {
+    color: #000;
+    font-weight: 400;
+    transition: 0.3s;
+    font-size: 17px;
+    display: inline-block;
+}
+
+.a-gen:hover {
+    color: rgba(30, 58, 138, 0.8);
+}
