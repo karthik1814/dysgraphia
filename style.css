@@ -979,7 +979,7 @@ padding: 10px 0;
   .space{
     height: 20px;
     border: 1px solid;
-    margin: 10px;
+    margin: 0 10px;
     background-color: #ccc;
     border-bottom: 0px;
   }
@@ -987,7 +987,7 @@ padding: 10px 0;
     text-align: center;
     border: 1px solid;
     padding-bottom: 20px;
-    margin: 10px ;
+    margin: 0 10px ;
   }
   .contr h3{
     font-family: 'Lato', sans-serif;
